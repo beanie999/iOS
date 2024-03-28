@@ -1,0 +1,88 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "email": "janet.smith@newrelic",
+            "first_name": "Janet",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 2,
+            "email": "mark.smith@newrelic",
+            "first_name": "Mark",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 3,
+            "email": "mary.smith@newrelic",
+            "first_name": "Mary",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 4,
+            "email": "john.smith@newrelic",
+            "first_name": "John",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 5,
+            "email": "shirley.smith@newrelic",
+            "first_name": "Shirley",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 6,
+            "email": "james.smith@newrelic",
+            "first_name": "James",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 7,
+            "email": "joanne.smith@newrelic",
+            "first_name": "Joanne",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 8,
+            "email": "david.smith@newrelic",
+            "first_name": "David",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 9,
+            "email": "lucy.smith@newrelic",
+            "first_name": "Lucy",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 10,
+            "email": "neil.smith@newrelic",
+            "first_name": "Neil",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 11,
+            "email": "sharon.smith@newrelic",
+            "first_name": "Sharon",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        },
+        {
+            "id": 12,
+            "email": "bruce.smith@newrelic",
+            "first_name": "Bruce",
+            "last_name": "Smith",
+            "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg"
+        }
+    ]
+}

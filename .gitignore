@@ -1,0 +1,7 @@
+.DS_Store
+Mike Demo/DerivedData/*
+backendservice_firsthop/newrelic_agent.log
+backendservice_firsthop/newrelic.js
+backendservice_secondhop/newrelic_agent.log
+backendservice_secondhop/newrelic.js
+Mike Demo/Shared/Keys.plist
