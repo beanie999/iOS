@@ -141,6 +141,7 @@ struct ContentView: View {
         let url = URL(string: urlString)!
         let task = URLSession.shared.dataTask(with: url) {(data, response, error) in
             if let error = error {
+                NewRelic.logError("URL: " + urlString + ", returned: " + error.localizedDescription)
                 NewRelic.recordError(error)
             }
             else {
@@ -150,8 +151,10 @@ struct ContentView: View {
                     if let data = data {
                         print(String(data: data, encoding: .utf8)!)
                     }
+                    NewRelic.logInfo("URL: " + urlString + ", returned: " + status.description)
                 }
                 else {
+                    NewRelic.logError("URL: " + urlString + ", returned: " + status.description)
                     NewRelic.recordError(HTTPError.serverSideError(status))
                 }
             }

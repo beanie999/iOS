@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		7465A4592BB5D09D00208FA0 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7465A4582BB5D09D00208FA0 /* Keys.plist */; };
-		7465A45A2BB5D09D00208FA0 /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = 7465A4582BB5D09D00208FA0 /* Keys.plist */; };
+		749DB0152C9A194D00FAA3EB /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = 749DB0142C9A194D00FAA3EB /* Keys.plist */; };
+		749DB0162C9A194D00FAA3EB /* Keys.plist in Resources */ = {isa = PBXBuildFile; fileRef = 749DB0142C9A194D00FAA3EB /* Keys.plist */; };
 		C82E3565272AE6FB004C8281 /* Placeholder.m in Sources */ = {isa = PBXBuildFile; fileRef = C82E3564272AE6FB004C8281 /* Placeholder.m */; };
 		C893E7702707788B00B2FB50 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = C893E76F2707788B00B2FB50 /* Tests_iOS.swift */; };
 		C893E7722707788B00B2FB50 /* Tests_iOSLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C893E7712707788B00B2FB50 /* Tests_iOSLaunchTests.swift */; };
@@ -43,7 +43,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		7465A4582BB5D09D00208FA0 /* Keys.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
+		749DB0142C9A194D00FAA3EB /* Keys.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Keys.plist; sourceTree = "<group>"; };
 		C82E3563272AE6FB004C8281 /* Mike Demo (iOS)-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "Mike Demo (iOS)-Bridging-Header.h"; sourceTree = "<group>"; };
 		C82E3564272AE6FB004C8281 /* Placeholder.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Placeholder.m; sourceTree = "<group>"; };
 		C893E7572707788700B2FB50 /* Mike_DemoApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mike_DemoApp.swift; sourceTree = "<group>"; };
@@ -114,7 +114,7 @@
 				C893E7582707788700B2FB50 /* ContentView.swift */,
 				C893E7592707788A00B2FB50 /* Assets.xcassets */,
 				C8A9E4DE2708C69A0098457F /* AppDelegate.swift */,
-				7465A4582BB5D09D00208FA0 /* Keys.plist */,
+				749DB0142C9A194D00FAA3EB /* Keys.plist */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -290,7 +290,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7465A4592BB5D09D00208FA0 /* Keys.plist in Resources */,
+				749DB0152C9A194D00FAA3EB /* Keys.plist in Resources */,
 				C893E7832707788B00B2FB50 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,7 +299,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7465A45A2BB5D09D00208FA0 /* Keys.plist in Resources */,
+				749DB0162C9A194D00FAA3EB /* Keys.plist in Resources */,
 				C893E7842707788B00B2FB50 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

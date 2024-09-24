@@ -1,4 +1,5 @@
 {
+  "originHash" : "f36db4f5918d47a2752ac2294796b44397471e1f8167c33d834dd45c536f587e",
   "pins" : [
     {
       "identity" : "newrelic-ios-agent-spm",
@@ -6,9 +7,9 @@
       "location" : "https://github.com/newrelic/newrelic-ios-agent-spm",
       "state" : {
         "branch" : "main",
-        "revision" : "b86de5b23317262d820858cf7f61720547cced91"
+        "revision" : "c7228afb2131f47e79f6f0ea8c6a2586802021a1"
       }
     }
   ],
-  "version" : 2
+  "version" : 3
 }
